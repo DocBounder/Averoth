@@ -1,0 +1,269 @@
+{
+  "addToDefaultIfMissing": true,
+  "calendars": [
+    {
+      "name": "Walled Kingfom",
+      "description": null,
+      "id": null,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": null,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Vigilday",
+            "id": "ID_a8faea985b29"
+          },
+          {
+            "type": "day",
+            "name": "Dawnbreak",
+            "id": "ID_98bbf8399b49"
+          },
+          {
+            "type": "day",
+            "name": "Spireday",
+            "id": "ID_896b4bf8b959"
+          },
+          {
+            "type": "day",
+            "name": "Gildenday",
+            "id": "ID_fbfbd8796b99"
+          },
+          {
+            "type": "day",
+            "name": "Stillday",
+            "id": "ID_e89b39a9386a"
+          },
+          {
+            "type": "day",
+            "name": "Veilend",
+            "id": "ID_eaeb6a6b2bfa"
+          },
+          {
+            "type": "day",
+            "name": "Kindreth",
+            "id": "ID_7a5aba598a98"
+          },
+          {
+            "type": "day",
+            "name": "Brightfast",
+            "id": "ID_cb497bf87b7a"
+          }
+        ],
+        "months": [
+          {
+            "type": "month",
+            "name": "Verdictus",
+            "length": 36,
+            "id": "ID_a90a0939a83b"
+          },
+          {
+            "type": "month",
+            "name": "Fertalem",
+            "length": 36,
+            "id": "ID_b999eb682949"
+          },
+          {
+            "type": "month",
+            "name": "Luxprima",
+            "length": 36,
+            "id": "ID_2a9aba19b9a8"
+          },
+          {
+            "type": "month",
+            "name": "Sanctimarch",
+            "length": 36,
+            "id": "ID_d808a9f82979"
+          },
+          {
+            "type": "month",
+            "name": "Ascendantum",
+            "length": 36,
+            "id": "ID_69bbd9d90aba"
+          },
+          {
+            "type": "month",
+            "name": "Veilwane",
+            "length": 36,
+            "id": "ID_c97838b8e8cb"
+          },
+          {
+            "type": "month",
+            "name": "Cindercall",
+            "length": 36,
+            "id": "ID_893a0aea8999"
+          },
+          {
+            "type": "month",
+            "name": "Gravetoll",
+            "length": 36,
+            "id": "ID_3a59db7b397b"
+          },
+          {
+            "type": "month",
+            "name": "Coldrest",
+            "length": 36,
+            "id": "ID_a88beb9a687a"
+          },
+          {
+            "type": "month",
+            "name": "Crownfall",
+            "length": 36,
+            "id": "ID_7bebe9c85b29"
+          },
+          {
+            "type": "month",
+            "name": "The Requies",
+            "length": 5,
+            "id": "ID_bb1b5ae92a89"
+          }
+        ],
+        "moons": [
+          {
+            "name": "Selune",
+            "cycle": 28,
+            "offset": null,
+            "faceColor": "#9a9d02",
+            "shadowColor": "#8f7700",
+            "id": "ID_c91acb0a1acb"
+          },
+          {
+            "name": "Elura",
+            "cycle": 36,
+            "offset": null,
+            "faceColor": "#6296fe",
+            "shadowColor": "#000",
+            "id": "ID_a80a687acb5a"
+          }
+        ],
+        "displayMoons": true,
+        "displayDayNumber": true,
+        "leapDays": [
+          {
+            "id": "ID_0ae8ab1af85b",
+            "name": "Leap Day",
+            "interval": [
+              {
+                "interval": 1,
+                "exclusive": false,
+                "ignore": false
+              }
+            ],
+            "intercalary": false,
+            "timespan": 10,
+            "offset": 5,
+            "type": "leapday"
+          }
+        ],
+        "eras": [],
+        "years": [],
+        "useCustomYears": false
+      },
+      "current": {
+        "year": 300,
+        "month": 2,
+        "day": 33
+      },
+      "events": [
+        {
+          "name": "The Bloomtide",
+          "description": "Date: Month 4, Days 15–18\n\nCelebrates new life and fertility. Often coincides with Arawai’s rites.",
+          "date": {
+            "month": null,
+            "day": null,
+            "year": null
+          },
+          "id": "ID_98286bebab3b",
+          "note": null,
+          "category": null
+        },
+        {
+          "name": "The Vielnight",
+          "description": "Date: Variable (occurs when both moons are full)\n\nA night when spirits walk and visions come easily. The old gods are closest.",
+          "date": {
+            "month": null,
+            "day": null,
+            "year": null
+          },
+          "id": "ID_683858fa18da",
+          "note": null,
+          "category": null
+        },
+        {
+          "name": "The Dimming",
+          "description": "Date: Month 10, Days 29–36\n\nA week of quiet reflection marking the darkening of the year. Ends with the Requies.",
+          "date": {
+            "month": null,
+            "day": null,
+            "year": null
+          },
+          "id": "ID_7a38c828794b",
+          "note": null,
+          "category": null
+        },
+        {
+          "name": "The Requies",
+          "description": "Date: 5 days after Month 10 (or 6 in leap years)\n\nOutside the normal months. A time for grief, release, and resting the dead.",
+          "date": {
+            "month": null,
+            "day": null,
+            "year": null
+          },
+          "id": "ID_08198918c9b9",
+          "note": null,
+          "category": null
+        },
+        {
+          "name": "The Vigil Festival",
+          "description": "Date: Month 3, Days 33–36 (end of winter, start of spring)\n\nA 4-day coming-of-age festival; ends with the Calling on Month 4, Day 1 (first day of spring)\n\nParticipants go on their pilgrimage, which sets the campaign in motion.",
+          "date": {
+            "month": 2,
+            "day": 33,
+            "year": null
+          },
+          "id": "ID_db898948e80b",
+          "note": null,
+          "category": null,
+          "end": {
+            "year": null,
+            "month": 2,
+            "day": 36
+          }
+        }
+      ],
+      "categories": [],
+      "autoParse": false,
+      "path": "/",
+      "supportTimelines": false,
+      "syncTimelines": true,
+      "timelineTag": "#timeline",
+      "displayWeeks": true
+    }
+  ],
+  "configDirectory": null,
+  "currentCalendar": null,
+  "dailyNotes": false,
+  "dateFormat": "YYYY-MM-DD",
+  "defaultCalendar": null,
+  "eventPreview": true,
+  "exit": {
+    "saving": false,
+    "event": false,
+    "calendar": false
+  },
+  "eventFrontmatter": false,
+  "parseDates": false,
+  "settingsToggleState": {
+    "calendars": true,
+    "events": true,
+    "advanced": true
+  },
+  "showIntercalary": false,
+  "version": {
+    "major": null,
+    "minor": null,
+    "patch": null
+  },
+  "debug": false
+}

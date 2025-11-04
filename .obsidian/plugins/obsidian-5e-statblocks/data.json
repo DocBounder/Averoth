@@ -1,0 +1,28 @@
+{
+  "monsters": [],
+  "defaultLayouts": {},
+  "layouts": [],
+  "default": "basic-5e-layout",
+  "useDice": true,
+  "renderDice": true,
+  "export": true,
+  "showAdvanced": true,
+  "version": {
+    "major": 4,
+    "minor": 10,
+    "patch": 0
+  },
+  "paths": [
+    "/",
+    "Compendium/Bestiary"
+  ],
+  "autoParse": true,
+  "disableSRD": false,
+  "tryToRenderLinks": true,
+  "debug": true,
+  "notifiedOfFantasy": false,
+  "hideConditionHelp": false,
+  "alwaysImport": false,
+  "defaultLayoutsIntegrated": true,
+  "atomicWrite": false
+}

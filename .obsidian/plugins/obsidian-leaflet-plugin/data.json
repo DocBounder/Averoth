@@ -1,0 +1,520 @@
+{
+  "mapMarkers": [
+    {
+      "id": "nightstone",
+      "lastAccessed": 1717728789687,
+      "markers": [
+        {
+          "id": "ID_7abb791a69d9",
+          "type": "default",
+          "loc": [
+            -0.565625011920929,
+            0.6101562976837158
+          ],
+          "link": "Locations#The Obelisk Square (Central Area)",
+          "layer": "%5B%5BNightstone.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.53219765658273,
+            0.33364056002709175
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_59490b4868c9",
+          "type": "default",
+          "loc": [
+            -0.3896484375,
+            0.6001952886581421
+          ],
+          "link": "Locations#Nightstone Inn (Building b)",
+          "layer": "%5B%5BNightstone.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5235093488806963,
+            0.22983870967741934
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_aa186a0b2849",
+          "type": "default",
+          "loc": [
+            -0.45976561307907104,
+            0.7785155773162842
+          ],
+          "link": "Locations#Blacksmith’s Forge (Building D)",
+          "layer": "%5B%5BNightstone.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6790459550015971,
+            0.2711981496503276
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e84a6ab8cbca",
+          "type": "default",
+          "loc": [
+            -0.6322143375873566,
+            0.7741333246231079
+          ],
+          "link": "Locations#Farmer’s Cottage (Building h)",
+          "layer": "%5B%5BNightstone.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b86b8b78fa69",
+          "type": "default",
+          "loc": [
+            -0.6615112125873566,
+            0.8815551996231079
+          ],
+          "link": "Locations#Tanner’s Workshop (Building i)",
+          "layer": "%5B%5BNightstone.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_89ea1a6a1939",
+          "type": "default",
+          "loc": [
+            -0.7240112125873566,
+            0.8835083246231079
+          ],
+          "link": "Locations##### Butcher’s Home (building j)",
+          "layer": "%5B%5BNightstone.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7a0949ea9a1a",
+          "type": "default",
+          "loc": [
+            -0.7240112125873566,
+            0.6862426996231079
+          ],
+          "link": "Locations#Baker’s Home and Bakery (Building g)",
+          "layer": "%5B%5BNightstone.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b8da3a39782b",
+          "type": "default",
+          "loc": [
+            -0.686328113079071,
+            0.3500000238418579
+          ],
+          "link": "Locations#General Store (Building e)",
+          "layer": "%5B%5BNightstone.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.3052811110852321,
+            0.4048387026457193
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fa3a38e96a68",
+          "type": "default",
+          "loc": [
+            -0.854687511920929,
+            0.4382812976837158
+          ],
+          "link": "Locations#Windmill (West of Building e):",
+          "layer": "%5B%5BNightstone.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.38228283545836883,
+            0.5041474724694881
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e9b819fb3a99",
+          "type": "default",
+          "loc": [
+            -0.9505859017372131,
+            0.6966797113418579
+          ],
+          "link": "Locations#Wizard's Study (Building l)",
+          "layer": "%5B%5BNightstone.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6076661196031197,
+            0.5607142646191856
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_18aa19a82ba8",
+          "type": "default",
+          "loc": [
+            -0.705859363079071,
+            0.5515624284744263
+          ],
+          "link": "Locations#Apothecary’s House (Building f)",
+          "layer": "%5B%5BNightstone.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.48109022722130534,
+            0.41635943997290825
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ba9909b92819",
+          "type": "default",
+          "loc": [
+            -1.3451171815395355,
+            0.6099609136581421
+          ],
+          "link": "Locations#Nandar Keep (Southern Island)",
+          "layer": "%5B%5BNightstone.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5320272364445805,
+            0.7934331762076523
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2ba88aa92a2b",
+          "type": "default",
+          "loc": [
+            -0.45234376192092896,
+            0.4359375238418579
+          ],
+          "link": "Locations#Steeple (Building a):",
+          "layer": "%5B%5BNightstone.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.3802385216474127,
+            0.2668202835293959
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_59f83a1ab9ca",
+          "type": "default",
+          "loc": [
+            -0.3619140386581421,
+            0.7451171875
+          ],
+          "link": "Locations#Temple (Building c)",
+          "layer": "%5B%5BNightstone.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6499148211243612,
+            0.213479248609411
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0b995be86808",
+          "type": "default",
+          "loc": [
+            -0.8395874351263046,
+            0.7544432282447815
+          ],
+          "link": "Locations#Tailor’s Shop (Building k)",
+          "layer": "%5B%5BNightstone.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_38eb188b4b79",
+          "type": "default",
+          "loc": [
+            -0.8089234083890915,
+            0.5894041657447815
+          ],
+          "layer": "%5B%5BNightstone.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e9a81bdb199a",
+          "type": "default",
+          "loc": [
+            -1.0569702088832855,
+            0.609130859375
+          ],
+          "layer": "%5B%5BNightstone.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Bridge is damaged, 10 ft gap",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_89ea4b68b85a",
+          "type": "default",
+          "loc": [
+            -0.9622436463832855,
+            0.822021484375
+          ],
+          "layer": "%5B%5BNightstone.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Lookout Post\n",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_bb7b282bd80a",
+          "type": "default",
+          "loc": [
+            -0.588940441608429,
+            0.9491212368011475
+          ],
+          "layer": "%5B%5BNightstone.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Lookout Post\n",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6bbb08a8182a",
+          "type": "default",
+          "loc": [
+            -0.29206544160842896,
+            0.8280274868011475
+          ],
+          "layer": "%5B%5BNightstone.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Lookout Post\n",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_da48cb89f819",
+          "type": "default",
+          "loc": [
+            -0.29597169160842896,
+            0.41005873680114746
+          ],
+          "layer": "%5B%5BNightstone.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Lookout Post\n",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d9085bbb281a",
+          "type": "default",
+          "loc": [
+            -0.553784191608429,
+            0.32216811180114746
+          ],
+          "layer": "%5B%5BNightstone.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Lookout Post\n",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_18d968692818",
+          "type": "default",
+          "loc": [
+            -0.612377941608429,
+            0.32216811180114746
+          ],
+          "layer": "%5B%5BNightstone.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Lookout Post\n",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_696b38cb6aeb",
+          "type": "default",
+          "loc": [
+            -0.973706066608429,
+            0.36513686180114746
+          ],
+          "layer": "%5B%5BNightstone.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Lookout Post\n",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Locations/Locations.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {
+    "darkMode": false,
+    "defaultZoom": 5,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "500px",
+    "image": "[[114-map-6.5-fortress-of-caerdoon-basement.png]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[114-map-6.5-fortress-of-caerdoon-basement.png]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [
+      "default, 39.983334, -82.983330, [[Note]]"
+    ],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 10,
+    "minZoom": 1,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 1,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 1,
+    "zoomFeatures": false,
+    "id": "caerdoon-basement",
+    "lat": 50,
+    "long": 50,
+    "unit": "meters",
+    "filterTag": []
+  },
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultAttribution": "Map tiles by <a href=\"http://stamen.com\">Stamen Design</a>, under <a href=\"http://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>. Data by <a href=\"http://openstreetmap.org\">OpenStreetMap</a>, under <a href=\"http://www.openstreetmap.org/copyright\">ODbL</a>.",
+  "defaultTileSubdomains": "a,b,c"
+}

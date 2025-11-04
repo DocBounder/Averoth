@@ -1,0 +1,23 @@
+{
+  "discordWebhookURL": [
+    {
+      "description": "Strixhaven",
+      "url": "https://discord.com/api/webhooks/1169858018603696158/UKtafkAU8LChMNcPQ9q1xZhxyyXosMop6e4IyP09d-w5GpKBoD7ykbw789GqvQhqk1OJ"
+    }
+  ],
+  "attachmentsFolder": "~Attachments",
+  "localSuggestionsLimit": 10,
+  "showPreviewInLocalModal": true,
+  "customBotUsername": "The Identification Spell",
+  "customBotAvatarURL": "",
+  "useNoteTitleForEmbed": false,
+  "embedTitle": "",
+  "embedColor": "#a6d00b",
+  "embedURL": "",
+  "embedAuthor": "",
+  "embedDescription": "",
+  "embedThumbnail": "",
+  "embedFields": "",
+  "embedImage": "",
+  "embedFooter": ""
+}
