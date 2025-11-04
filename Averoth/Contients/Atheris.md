@@ -1,0 +1,1 @@
+Western Continent: “The Cradle of Empires” — the birthplace of divine civilization. Now a land of faith-bound empires and fallen gods.

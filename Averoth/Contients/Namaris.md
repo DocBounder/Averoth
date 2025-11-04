@@ -1,0 +1,1 @@
+Central Continent: “The Shifting Heart” — crossroads of trade, culture, and conflict. A mix of republics, leagues, and mercantile empires.
