@@ -1,0 +1,33 @@
+---
+level: 9
+school: Illusion
+range: 120 ft
+verbal: true
+somatic: true
+material: false
+damage_type: Psychic
+casting_time: 1 Action
+duration: 1 Minute
+attack_type: ""
+ritual: false
+concentration: true
+save: WIS
+source: Players Handbook
+created: 2025-05-16T12:35
+updated: 2025-05-16T12:35
+---
+
+### *9th-level Illusion Spell* *(Concentration)*
+
+**Casting Time:** 1 Action
+
+**Range:** 120 ft
+
+**Components:** V, S
+
+**Duration:** 1 Minute
+
+Drawing on the deepest fears of a group of creatures, you create illusory creatures in their minds, visible only to them. Each creature in a 30-foot-radius sphere centered on a point of your choice within range must make a Wisdom saving throw. On a failed save, a creature becomes frightened for the duration. The illusion calls on the creature's deepest fears, manifesting its worst nightmares as an implacable threat. At the end of each of the frightened creature's turns, it must succeed on a Wisdom saving throw or take 4d10 psychic damage. On a successful save, the spell ends for that creature.
+
+---
+**Source:** Players Handbook

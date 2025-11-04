@@ -11,17 +11,17 @@
             "id": "5e050c892cbe289f",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Untitled",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"//Untitled.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Averoth",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Averoth/Averoth.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Averoth\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
                 },
                 {
                   "title": "Vileland 2025-11-03-22-05",
@@ -100,12 +100,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Averoth/Averoth.md",
+                "file": "Compendium/Bestiary/Homebrew.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Averoth"
+              "title": "Homebrew"
             }
           }
         ]
@@ -384,25 +384,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5e050c892cbe289f",
+  "active": "905acace529e613f",
   "lastOpenFiles": [
-    "//Untitled.md",
-    "Averoth.md",
-    "Averoth/Averoth.md",
-    "Untitled.md",
-    "Averoth/Contients/Vileland 2025-11-03-22-05.png",
-    "Untitled/Contients/Unconfirmed 568761.crdownload",
-    "Averoth/Contients/Vileland 2025-11-03-22-04.map",
-    "Untitled/Contients/Unconfirmed 919346.crdownload",
-    "Averoth/Contients/Vorynth.md",
-    "Averoth/Contients/Namaris.md",
-    "Averoth/Contients/Atheris.md",
-    "Averoth",
-    "Averoth/Contients",
-    "Compendium/Classes/Artificer/Sub-classes/Gunsmith.md",
-    "Compendium/Classes/Artificer/Sub-classes/Alchemist.md",
-    "Compendium/Bestiary/Beasts/Awakened Tree.md",
-    "Compendium/Bestiary/Beasts/Ape.md",
+    "Compendium/Bestiary/Monsters.md",
+    "Compendium.md",
+    "Compendium/Bestiary/Homebrew.md",
     "Compendium/Spells/_Spellbook.md",
     "Compendium/Spells/Zone Of Truth.md",
     "Compendium/Spells/Zephyr Strike.md",
@@ -418,10 +404,24 @@
     "Compendium/Spells/Wind Walk.md",
     "Compendium/Spells/Whirlwind.md",
     "Compendium/Spells/Weird.md",
+    "Compendium/Spells/Web.md",
+    "Compendium/Spells/Watery Sphere.md",
+    "Compendium/Spells/Water Whip.md",
+    "Compendium/Spells/Water Walk.md",
+    "Compendium/Spells/Water Breathing.md",
+    "Compendium/Spells/Warding Wind.md",
+    "Compendium/Spells/Warding Bond.md",
+    "Compendium/Spells/Wall Of Water.md",
     "Compendium/Spells",
     "Compendium/Species",
     "Compendium/Rules and Reference",
     "Compendium/Items/Weapons and Armor/Weapons/Variant",
-    "Compendium/Items/Weapons and Armor/Weapons/Simple"
+    "Compendium/Items/Weapons and Armor/Weapons/Simple",
+    "Compendium/Items/Weapons and Armor/Weapons/Martial",
+    "Compendium/Items/Weapons and Armor/Weapons/Ammunition",
+    "Compendium/Items/Weapons and Armor/Armor/Variant",
+    "Compendium/Items/Weapons and Armor/Armor/Medium",
+    "Compendium/Items/Weapons and Armor/Armor/Light",
+    "Averoth/Contients/Vileland 2025-11-03-22-05.png"
   ]
 }

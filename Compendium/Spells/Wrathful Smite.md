@@ -1,0 +1,33 @@
+---
+level: 1
+school: Evocation
+range: Self
+verbal: true
+somatic: false
+material: false
+damage_type: Psychic
+casting_time: 1 Bonus Action
+duration: 1 Minute
+attack_type: ""
+ritual: false
+concentration: true
+save: WIS
+source: Players Handbook
+created: 2025-05-16T12:35
+updated: 2025-05-16T12:35
+---
+
+### *1st-level Evocation Spell* *(Concentration)*
+
+**Casting Time:** 1 Bonus Action
+
+**Range:** Self
+
+**Components:** V
+
+**Duration:** 1 Minute
+
+The next time you hit with a melee weapon attack during this spell's duration, your attack deals an extra ld6 psychic damage. Additionally, if the target is a creature, it must make a Wisdom saving throw or be frightened of you until the spell ends. As an action, the creature can make a Wisdom check against your spell save DC to steel its resolve and end this spell.
+
+---
+**Source:** Players Handbook

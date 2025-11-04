@@ -1,0 +1,15 @@
+---
+price: 400
+type: Gear
+vermun: false
+seen: false
+owned: false
+attunement: false
+created: 2025-05-16T12:33
+updated: 2025-05-16T12:33
+---
+# Oil of Taggit (Contact)
+
+*Gear, None*
+
+A creature subjected to this poison must succeed on a DC 13 Constitution saving throw or become {@condition poisoned} for 24 hours. The {@condition poisoned} creature is {@condition unconscious}. The creature wakes up if it takes damage.
