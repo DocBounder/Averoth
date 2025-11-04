@@ -177,9 +177,68 @@
               "icon": "lucide-file",
               "title": "Averoth"
             }
+          },
+          {
+            "id": "772bf622198843e2",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Atheris",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Averoth/Contients/Atheris.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Atheris\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Namaris",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Averoth/Contients/Namaris.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Namaris\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Vorynth",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Averoth/Contients/Vorynth.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Vorynth\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Namaris",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Averoth/Contients/Namaris.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Namaris\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Atheris",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Averoth/Contients/Atheris.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Atheris\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Compendium",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Compendium.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Compendium\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Averoth/Averoth.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Averoth"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -455,8 +514,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "64cc364ec4ee59a0",
+  "active": "772bf622198843e2",
   "lastOpenFiles": [
+    "Averoth/Contients/Atheris.md",
+    "Averoth/Contients/Namaris.md",
+    "Averoth/Contients/Vorynth.md",
+    "Compendium.md",
+    "Averoth/Averoth.md",
     "Compendium/Bestiary/Beasts/Swarm of Quippers.md",
     "Compendium/Bestiary/Beasts/Swarm of Bats.md",
     "Compendium/Bestiary/Beasts/Spider.md",
@@ -481,11 +545,6 @@
     "Compendium/Bestiary/Beasts/Awakened Tree.md",
     "Untitled.md",
     "~Attachments",
-    "Compendium/Bestiary/Beasts.md",
-    "Compendium/Bestiary.md",
-    "Compendium/Bestiary/Non-Beasts.md",
-    "Compendium/Bestiary/Beasts/Wolf.md",
-    "Compendium/Bestiary/Beasts/Winter Wolf.md",
     "Compendium/Spells",
     "Compendium/Species",
     "Compendium/Rules and Reference",
