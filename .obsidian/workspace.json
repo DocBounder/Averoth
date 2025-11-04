@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Homebrew",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Compendium/Bestiary/Homebrew.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Homebrew\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Compendium",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Compendium.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Compendium\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "Averoth",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Averoth/Averoth.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Averoth\"}",
@@ -26,7 +38,7 @@
                 {
                   "title": "Vileland 2025-11-03-22-05",
                   "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Averoth/Contients/Vileland 2025-11-03-22-05.png\"},\"icon\":\"lucide-image\",\"title\":\"Vileland 2025-11-03-22-05\"}",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"~Attachments/Vileland 2025-11-03-22-05.png\"},\"icon\":\"lucide-image\",\"title\":\"Vileland 2025-11-03-22-05\"}",
                   "eState": "{}"
                 },
                 {
@@ -100,15 +112,74 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compendium/Bestiary/Homebrew.md",
+                "file": "Compendium/Bestiary/Non-Beasts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Homebrew"
+              "title": "Non-Beasts"
+            }
+          },
+          {
+            "id": "da300692f8e2af65",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Compendium/Bestiary.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bestiary"
+            }
+          },
+          {
+            "id": "64cc364ec4ee59a0",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Awakened Tree",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Compendium/Bestiary/Beasts/Awakened Tree.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Awakened Tree\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":0},\"to\":{\"line\":26,\"ch\":0}},\"scroll\":38.833333333333336}"
+                },
+                {
+                  "title": "Beasts",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Compendium/Bestiary/Beasts.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Beasts\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Averoth/Averoth.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Averoth"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -384,34 +455,37 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "905acace529e613f",
+  "active": "64cc364ec4ee59a0",
   "lastOpenFiles": [
-    "Compendium/Bestiary/Monsters.md",
-    "Compendium.md",
-    "Compendium/Bestiary/Homebrew.md",
-    "Compendium/Spells/_Spellbook.md",
-    "Compendium/Spells/Zone Of Truth.md",
-    "Compendium/Spells/Zephyr Strike.md",
-    "Compendium/Spells/Wristpocket.md",
-    "Compendium/Spells/Wrathful Smite.md",
-    "Compendium/Spells/Wrath Of Nature.md",
-    "Compendium/Spells/Word Of Recall.md",
-    "Compendium/Spells/Word Of Radiance.md",
-    "Compendium/Spells/Wither and Bloom.md",
-    "Compendium/Spells/Witch Bolt.md",
-    "Compendium/Spells/Wish.md",
-    "Compendium/Spells/Wind Wall.md",
-    "Compendium/Spells/Wind Walk.md",
-    "Compendium/Spells/Whirlwind.md",
-    "Compendium/Spells/Weird.md",
-    "Compendium/Spells/Web.md",
-    "Compendium/Spells/Watery Sphere.md",
-    "Compendium/Spells/Water Whip.md",
-    "Compendium/Spells/Water Walk.md",
-    "Compendium/Spells/Water Breathing.md",
-    "Compendium/Spells/Warding Wind.md",
-    "Compendium/Spells/Warding Bond.md",
-    "Compendium/Spells/Wall Of Water.md",
+    "Compendium/Bestiary/Beasts/Swarm of Quippers.md",
+    "Compendium/Bestiary/Beasts/Swarm of Bats.md",
+    "Compendium/Bestiary/Beasts/Spider.md",
+    "Compendium/Bestiary/Beasts/Saber-Toothed Tiger.md",
+    "Compendium/Bestiary/Beasts/Raven.md",
+    "Compendium/Bestiary/Beasts/Rat.md",
+    "Compendium/Bestiary/Beasts/Quipper.md",
+    "Compendium/Bestiary/Beasts/Hyena.md",
+    "Compendium/Bestiary/Beasts/Giant Vulture.md",
+    "Compendium/Bestiary/Beasts/Giant Toad.md",
+    "Compendium/Bestiary/Beasts/Giant Spider.md",
+    "Compendium/Bestiary/Beasts/Giant Poisonous Snake.md",
+    "Compendium/Bestiary/Beasts/Giant Owl.md",
+    "Compendium/Bestiary/Beasts/Giant Octopus.md",
+    "Compendium/Bestiary/Beasts/Giant Lizard.md",
+    "Compendium/Bestiary/Beasts/Giant Hyena.md",
+    "Compendium/Bestiary/Beasts/Giant Goat.md",
+    "Compendium/Bestiary/Beasts/Giant Fire Beetle.md",
+    "Compendium/Bestiary/Beasts/Giant Crab.md",
+    "~Attachments/Vileland 2025-11-03-22-17.map",
+    "~Attachments/Unconfirmed 171999.crdownload",
+    "Compendium/Bestiary/Beasts/Awakened Tree.md",
+    "Untitled.md",
+    "~Attachments",
+    "Compendium/Bestiary/Beasts.md",
+    "Compendium/Bestiary.md",
+    "Compendium/Bestiary/Non-Beasts.md",
+    "Compendium/Bestiary/Beasts/Wolf.md",
+    "Compendium/Bestiary/Beasts/Winter Wolf.md",
     "Compendium/Spells",
     "Compendium/Species",
     "Compendium/Rules and Reference",
@@ -419,9 +493,6 @@
     "Compendium/Items/Weapons and Armor/Weapons/Simple",
     "Compendium/Items/Weapons and Armor/Weapons/Martial",
     "Compendium/Items/Weapons and Armor/Weapons/Ammunition",
-    "Compendium/Items/Weapons and Armor/Armor/Variant",
-    "Compendium/Items/Weapons and Armor/Armor/Medium",
-    "Compendium/Items/Weapons and Armor/Armor/Light",
-    "Averoth/Contients/Vileland 2025-11-03-22-05.png"
+    "~Attachments/Vileland 2025-11-03-22-05.png"
   ]
 }
