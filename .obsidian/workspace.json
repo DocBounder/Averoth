@@ -189,6 +189,48 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Vorynth",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Averoth/Continents/Vorynth.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Vorynth\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Atheris",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Averoth/Continents/Atheris.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Atheris\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Vorynth",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Averoth/Continents/Vorynth.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Vorynth\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Namaris",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Averoth/Continents/Namaris.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Namaris\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Atheris",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Averoth/Continents/Atheris.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Atheris\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Averoth",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Averoth/Averoth.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Averoth\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":34},\"to\":{\"line\":3,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Vorynth",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Averoth/Continents/Vorynth.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Vorynth\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "Namaris",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Averoth/Continents/Namaris.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Namaris\"}",
@@ -277,12 +319,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Averoth/Continents/Vorynth.md",
+                "file": "Averoth/Averoth.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vorynth"
+              "title": "Averoth"
             }
           }
         ],
@@ -564,12 +606,12 @@
   },
   "active": "772bf622198843e2",
   "lastOpenFiles": [
+    "Averoth/Continents/Vorynth.md",
+    "Averoth/Continents/Atheris.md",
+    "Averoth/Continents/Namaris.md",
+    "Averoth/Averoth.md",
     "~Attachments/Vileland 2025-11-04-21-18.map",
     "~Attachments/Unconfirmed 558514.crdownload",
-    "Averoth/Continents/Namaris.md",
-    "Averoth/Continents/Atheris.md",
-    "Averoth/Averoth.md",
-    "Averoth/Continents/Vorynth.md",
     "Compendium.md",
     "Compendium/Bestiary/Beasts/Swarm of Quippers.md",
     "Compendium/Bestiary/Beasts/Swarm of Bats.md",
@@ -599,7 +641,6 @@
     "Compendium/Rules and Reference",
     "Compendium/Items/Weapons and Armor/Weapons/Variant",
     "Compendium/Items/Weapons and Armor/Weapons/Simple",
-    "Compendium/Items/Weapons and Armor/Weapons/Martial",
     "~Attachments/Vileland 2025-11-03-22-05.png"
   ]
 }
